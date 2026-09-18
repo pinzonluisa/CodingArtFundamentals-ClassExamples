@@ -9,8 +9,7 @@ Examples are organized by week, and each one is a plain `.js` file. Copy the cod
 ```
 Week2
 ├── Variables.js
-├── SetupAndDraw.js
-└── Conditionals.js
+└── SetupDraw-Animation.js
 Week3
 └── Loops.js
 ```

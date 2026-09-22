@@ -4,14 +4,18 @@ This repository holds the short p5.js examples we build together in class. Each 
 
 ## Structure
 
-Examples are organized by week, and each one is a plain `.js` file. Copy the code into your own p5.js template in VS Code to run it.
+Examples are organized by week, and each one is a plain `.js` file. The numbers show the order they're presented in class. Copy the code into your own p5.js template in VS Code to run it.
 
 ```
 Week2
 ├── Variables.js
 └── SetupDraw-Animation.js
 Week3
-└── Loops.js
+├── 1_HexColorIntro.js
+├── 2_IntroToArrays.js
+├── 3-rectIntro.js
+├── 4-LoopsIntro-noFill.js
+└── 5-LoopsIntro-Rect2.js
 ```
 
 ## Course

@@ -16,6 +16,12 @@ Week3
 ├── 3-rectIntro.js
 ├── 4-LoopsIntro-noFill.js
 └── 5-LoopsIntro-Rect2.js
+Week4
+├── 1_TranslateRotate-PushPop.js
+├── 2_TwoSquares-NoPushPop.js
+├── 3_TwoSquares-PushPop.js
+├── 4_LoopReview-OneSquare.js
+└── 5_CircleOnly.js
 ```
 
 ## Course
